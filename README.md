@@ -23,3 +23,4 @@ Calculate monthly/yearly TCO of Production HA elasticsearch/opensearch cluster t
 4. Self-Hosted k8s cluster with Elastic CLoud on Kubernetes operator https://github.com/elastic/cloud-on-k8s
 5. Elastic.cloud SaaS.
 
+![image](https://user-images.githubusercontent.com/17558124/185097716-5f7b67b4-0b12-457d-8066-860f7898b14c.png)
